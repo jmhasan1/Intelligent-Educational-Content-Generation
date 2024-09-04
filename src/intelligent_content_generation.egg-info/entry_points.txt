@@ -1,0 +1,4 @@
+[console_scripts]
+data_collection = src.data.data_collection:main
+data_exploration = src.data.data_exploration:main
+data_preprocessing = src.data.data_preprocessing:main
