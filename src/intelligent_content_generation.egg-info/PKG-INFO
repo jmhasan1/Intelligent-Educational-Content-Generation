@@ -13,3 +13,4 @@ Requires-Dist: torch
 Requires-Dist: Flask
 Requires-Dist: scikit-learn
 Requires-Dist: requests
+Requires-Dist: kaggle

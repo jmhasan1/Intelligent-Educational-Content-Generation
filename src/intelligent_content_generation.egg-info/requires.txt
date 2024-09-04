@@ -5,3 +5,4 @@ torch
 Flask
 scikit-learn
 requests
+kaggle

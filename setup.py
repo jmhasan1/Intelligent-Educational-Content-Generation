@@ -14,6 +14,7 @@ setup(
         "Flask",
         "scikit-learn",
         "requests",
+        "kaggle",
     ],
     entry_points={
         "console_scripts": [
