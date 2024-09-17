@@ -7,3 +7,5 @@
 - **Target Audience**: High school students
 - **Complexity Level**: Intermediate
 - **Evaluation Metrics**: Accuracy, Relevance, Usability
+
+<h3>Project details</h3>
